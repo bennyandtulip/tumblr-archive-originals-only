@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "tumblr_archive_originals_only"
